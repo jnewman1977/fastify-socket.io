@@ -43,7 +43,7 @@
     "dist"
   ],
   "peerDependencies": {
-    "fastify": "4.x.x",
+    "fastify": ">=4",
     "socket.io": ">=4"
   }
 }
